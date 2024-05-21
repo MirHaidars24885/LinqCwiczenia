@@ -1,0 +1,14 @@
+/Users/mirhaidar/Downloads/LinqCwiczenia 2/LinqTutorials/bin/Debug/net8.0/LinqTutorials
+/Users/mirhaidar/Downloads/LinqCwiczenia 2/LinqTutorials/bin/Debug/net8.0/LinqTutorials.deps.json
+/Users/mirhaidar/Downloads/LinqCwiczenia 2/LinqTutorials/bin/Debug/net8.0/LinqTutorials.runtimeconfig.json
+/Users/mirhaidar/Downloads/LinqCwiczenia 2/LinqTutorials/bin/Debug/net8.0/LinqTutorials.dll
+/Users/mirhaidar/Downloads/LinqCwiczenia 2/LinqTutorials/bin/Debug/net8.0/LinqTutorials.pdb
+/Users/mirhaidar/Downloads/LinqCwiczenia 2/LinqTutorials/obj/Debug/net8.0/LinqTutorials.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mirhaidar/Downloads/LinqCwiczenia 2/LinqTutorials/obj/Debug/net8.0/LinqTutorials.AssemblyInfoInputs.cache
+/Users/mirhaidar/Downloads/LinqCwiczenia 2/LinqTutorials/obj/Debug/net8.0/LinqTutorials.AssemblyInfo.cs
+/Users/mirhaidar/Downloads/LinqCwiczenia 2/LinqTutorials/obj/Debug/net8.0/LinqTutorials.csproj.CoreCompileInputs.cache
+/Users/mirhaidar/Downloads/LinqCwiczenia 2/LinqTutorials/obj/Debug/net8.0/LinqTutorials.dll
+/Users/mirhaidar/Downloads/LinqCwiczenia 2/LinqTutorials/obj/Debug/net8.0/refint/LinqTutorials.dll
+/Users/mirhaidar/Downloads/LinqCwiczenia 2/LinqTutorials/obj/Debug/net8.0/LinqTutorials.pdb
+/Users/mirhaidar/Downloads/LinqCwiczenia 2/LinqTutorials/obj/Debug/net8.0/LinqTutorials.genruntimeconfig.cache
+/Users/mirhaidar/Downloads/LinqCwiczenia 2/LinqTutorials/obj/Debug/net8.0/ref/LinqTutorials.dll
